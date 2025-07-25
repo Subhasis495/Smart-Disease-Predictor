@@ -6,7 +6,6 @@
 ## ✅ Features
 
 - 🔍 Disease prediction using symptoms
-- 📊 Severity score with visual indicator (progress bar)
 - 🩺 Disease description from medical datasets
 - 💊 Precaution suggestions based on diagnosis
 - 🖥️ Simple and interactive Streamlit UI
